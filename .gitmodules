@@ -1,0 +1,6 @@
+[submodule "riscv.core.buildroot"]
+	path = riscv.core.buildroot
+	url = https://github.com/shuhengma/riscv.core.buildroot.git
+[submodule "riscv-pk"]
+	path = riscv-pk
+	url = https://github.com/shuhengma/riscv-pk.git
